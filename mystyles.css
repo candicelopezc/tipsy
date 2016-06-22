@@ -43,7 +43,7 @@ font-family: 'Amatica SC', cursive;
   height: 140px;
   background-color: #00CCCC;
   text-align: center;
-  position: fixed;
+  background-repeat: no-repeat;
   padding-top: 20px;
   margin: 0 auto;
   background: url(logo.jpg);
