@@ -47,6 +47,7 @@ font-family: 'Amatica SC', cursive;
   padding-top: 20px;
   margin: 0 auto;
   text-indent: -999999;
+  background: url(logo.jpg);
 }
 
 body {
