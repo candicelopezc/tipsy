@@ -44,6 +44,9 @@ font-family: 'Amatica SC', cursive;
   height: 40px;
   background-color: #D8D8D8;
   text-align: center;
+  position: fixed;
+  
+}
 
 
 
