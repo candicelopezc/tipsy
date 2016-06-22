@@ -46,11 +46,12 @@ font-family: 'Amatica SC', cursive;
   position: fixed;
   padding-top: 20px;
   margin: 0 auto;
+  text-indent: -999999;
 }
 
 body {
   background: #D8D8D8;
-  text-indent: -999999px;
+
 }
 
   
